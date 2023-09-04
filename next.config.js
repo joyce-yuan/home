@@ -11,11 +11,12 @@ const nextConfig = {
 };
 
 const pathPrefix = process.env.NODE_ENV === 'production'
-  ? '/home'
+  ? '/home/'
   : '';
 
 module.exports = {
   nextConfig,
+  basePath: "/home",
   assetPrefix: pathPrefix,
   env: {
     pathPrefix,
