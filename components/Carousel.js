@@ -79,6 +79,9 @@ class Carousel extends Component {
                       this.setState({ paused: false });
                     }}
                   />
+                  <div>
+                    <p>Hi testing</p>
+                  </div>
                 </div>
               );
             })}
