@@ -16,11 +16,10 @@ const pathPrefix = process.env.NODE_ENV === 'production'
 
 module.exports = {
   nextConfig,
-  basePath: "/home",
-  assetPrefix: pathPrefix,
-  env: {
-    pathPrefix,
-  },
+  // assetPrefix: pathPrefix,
+  // env: {
+  //   pathPrefix,
+  // },
 };
 
 // module.exports = nextConfig;
