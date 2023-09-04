@@ -10,6 +10,24 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      sans: ['Merriweather', 'sans-serif'],
+      serif: ['Merriweather', 'serif'],
+      'display': ['Oswald'],
+      'body': ['"Open Sans"'],
+    },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'white': '#ffffff',
+      'blue-purple': '#877FA8',
+      'lavendar': '#BD86A6',
+      'blossom': '#D47E97',
+      'choral': '#F59193',
+      'orange': '#F9AE91',
+      'yellow': '#FBF7BF',
+      'melon': '#FFB2B2',
+    },
     extend: {
       screens: { sm: "480px", md: "768px", lg: "976px", xl: "1440pd" },
       animation: {
