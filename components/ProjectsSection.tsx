@@ -25,7 +25,7 @@ const projects = [
     description: "Super Sync is a 2v2 game where teams compete to send their superheros to the top of the Super Tower first. This project consisted of a physical tower and corresponding wristbands, created for Toy Product Design (2.00B). The Super Tower is made up of acryllic, whereas the wristbands use magnetic reed switches, RFID scanners, and wireless modules to communicate with the Arduino within the Super Tower; the code powering the game logic is in C++",
     image: "/super_sync.png",
     github: "https://github.com/joyce-yuan/super_sync",
-    link: "",
+    link: "https://youtu.be/LZ3y30eHjLQ",
   },
   {
     name: "Icecreme Brulee",
