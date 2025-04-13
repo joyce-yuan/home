@@ -17,7 +17,7 @@ export default function RootLayout({
       */}
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3247161449589377" crossOrigin="anonymous"></script>
-        <meta name='mcp-verification' content='vUJoR9suzEK_UWAz3EDqTkEJkN_sR9BOIojjoFcdNVU' />
+        <meta name='mcp-verification' content='UeFLWyKyN_jDgg5OdOfsJPvb2hUupzINzCX1FQiNfWA' />
       </head>
       <body className="dark:bg-stone-900">
         <ThemeProvider enableSystem={true} attribute="class">
